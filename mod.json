@@ -1,20 +1,20 @@
 {
-	"geode": "4.10.0",
+	"geode": "5.3.0",
 	"gd": {
-		"win": "2.2074",
-		"android": "2.2074",
-		"mac": "2.2074",
-		"ios": "2.2074"
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
 	},
 	"id": "lr70.level-comments-widget",
 	"name": "Level Comments Widget",
-	"version": "v1.1.1",
-	"developer": "LatterRarity70",
+	"version": "v1.1.2",
+	"developer": "lil2kki",
 	"description": "Adds a level comments widget where you play",
 	"links": {
 		"community": "https://discord.gg/6SxAbk3bTA",
-		"homepage": "https://t.me/LatterRarity70",
-		"source": "https://github.com/LatterRarity70/Level-Comments-Widget"
+		"homepage": "https://t.me/lil2kki_ch",
+		"source": "https://github.com/lil2kki/Level-Comments-Widget"
 	},
 	"dependencies": {
 		"geode.node-ids": ">=1.21.0",
